@@ -1,0 +1,8 @@
+{
+  "update": "users",
+  "updates": [{
+    "q": {_id : {{send_email.data.}}},
+    "u": ,
+    "multi": false,
+  }]
+}
