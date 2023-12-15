@@ -1,20 +1,8 @@
 {
   "pages": [
     {
-      "id": "Home",
+      "id": "Page1",
       "isDefault": true
-    },
-    {
-      "id": "Coaching",
-      "isDefault": false
-    },
-    {
-      "id": "Admin",
-      "isDefault": false
-    },
-    {
-      "id": "Welcome",
-      "isDefault": false
     }
   ],
   "viewMode": false,
@@ -23,36 +11,14 @@
   "unpublishedApplicationDetail": {
     "appPositioning": {
       "type": "FIXED"
-    },
-    "navigationSetting": {
-      "showNavbar": false,
-      "orientation": "side",
-      "navStyle": "sidebar",
-      "position": "static",
-      "itemStyle": "text",
-      "colorStyle": "theme",
-      "logoAssetId": "",
-      "logoConfiguration": "logoAndApplicationTitle",
-      "showSignIn": true
     }
   },
-  "color": "#F5D1D1",
-  "icon": "flag",
-  "unpublishedAppLayout": {
-    "type": "FLUID"
-  },
-  "publishedAppLayout": {
-    "type": "FLUID"
-  },
+  "color": "#F3F1C7",
+  "icon": "sunflower",
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
-  "embedSetting": {
-    "height": "720px",
-    "width": "1024px",
-    "showNavigationBar": false
-  },
   "collapseInvisibleWidgets": true,
   "isManualUpdate": false,
   "deleted": false
